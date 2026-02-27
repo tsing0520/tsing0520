@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Snake](https://raw.githubusercontent.com/tsing0520/tsing0520/output/github-contribution-grid-snake.svg)
-
-![GitHub Stats](https://github-readme-stats-xi.vercel.app/api?username=tsing0520&show_icons=true&theme=radical)
