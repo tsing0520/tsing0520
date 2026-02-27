@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Snake](https://raw.githubusercontent.com/tsing0520/tsing0520/output/github-contribution-grid-snake.svg)
+
+
+<!-- 自定义仓库展示，排除 fork 项目 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsing0520&hide_forks=true&show_icons=true" alt="tsing0520's stats"/>
+</p>
