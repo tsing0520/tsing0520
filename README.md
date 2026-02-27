@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 <!-- 自定义仓库展示，排除 fork 项目 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsing0520&hide_forks=true&show_icons=true" alt="tsing0520's stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tsing0520&show_icons=true&include_all_commits=true&hide=contribs&custom_title=My%20GitHub%20Stats" alt="tsing0520's stats"/>
 </p>
