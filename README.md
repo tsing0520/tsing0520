@@ -1,20 +1,44 @@
-# Hi 👋, I'm tsing0520
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0:30,50:0:102,100:0:204&fontColor=f0f0f0&height=220&section=header&text=tsing0520&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%F0%9F%92%BB&descSize=20&descAlignY=55" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/tsing0520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tsing0520" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/tsing0520" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-tsing0520-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00D4FF&center=true&vCenter=true&width=460&lines=Java+%E2%9D%A4%EF%B8%8F+Spring;Docker+%E2%9C%85+Linux;MySQL+%F0%9F%92%BE+Redis+%E2%9A%A1;Clean+Code+%7C+System+Design;Build.+Ship.+Iterate." alt="Typing SVG" />
 </p>
 
+---
 
-![GitHub Snake](https://raw.githubusercontent.com/tsing0520/tsing0520/output/github-contribution-grid-snake.svg)
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,linux,git,idea,maven,gradle&theme=dark&perline=5" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tsing0520&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&ring_color=00D4FF" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=tsing0520&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsing0520&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true" width="95%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tsing0520/tsing0520/output/github-contribution-grid-snake.svg" width="95%" />
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0:30,50:0:102,100:0:204&height=120&section=footer" />
